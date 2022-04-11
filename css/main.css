@@ -136,15 +136,11 @@ body {
   text-decoration: none;
 }
 
-.footer {
+footer {
   background-color: #522806;
   border-top: .3rem solid #bea59b;
   color: #fff;
   font-size: .875rem;
   text-align: center;
   padding: 1rem;
-}
-
-.footer * {
-  margin: 0;
 }
